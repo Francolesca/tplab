@@ -1,0 +1,53 @@
+﻿@using System.Security.Claims;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if(User.Identity!.IsAuthenticated){
+    <h1 class="display-4">Bienvenido 
+        @User.Claims.Where(c => c.Type == ClaimTypes.Name).Select(c => c.Value).SingleOrDefault()
+    </h1>
+
+}
+<div class="row">
+    <div class="col-sm-6 mb-3 mb-sm-0">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Lotes</h5>
+                <p class="card-text">Lista, crea, edita y elimina lotes de productos.</p>
+                <a asp-controller="Lotes1" asp-action="Index" class="btn btn-primary">Vamos!</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Productos</h5>
+                <p class="card-text">Lista, crea, edita y elimina los productos.</p>
+                <a asp-controller="Productoes" asp-action="Index" class="btn btn-primary">Vamos!</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Marcas</h5>
+                <p class="card-text">Lista, crea, edita y elimina las marcas</p>
+                <a asp-controller="Marcas1" asp-action="Index" class="btn btn-primary">Vamos!</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Proveedores</h5>
+                <p class="card-text">Lista, crea, edita y elimina los proveedores.</p>
+                <a asp-controller="Proveedors" asp-action="Index" class="btn btn-primary">Vamos!</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center">
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
