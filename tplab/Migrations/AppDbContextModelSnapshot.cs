@@ -76,6 +76,9 @@ namespace tplab.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Foto")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("MarcaId")
                         .HasColumnType("int");
 

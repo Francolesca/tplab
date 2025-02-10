@@ -16,5 +16,6 @@ namespace tplab.Models.Entidades
         {
             Lotes = new List<Lote>();
         }
+        public string? Foto { get; set; }    
     }
 }

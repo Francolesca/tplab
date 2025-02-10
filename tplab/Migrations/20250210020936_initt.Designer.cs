@@ -12,8 +12,8 @@ using tplab.Models;
 namespace tplab.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250205034045_addUserTb")]
-    partial class addUserTb
+    [Migration("20250210020936_initt")]
+    partial class initt
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -78,6 +78,10 @@ namespace tplab.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Foto")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("MarcaId")
                         .HasColumnType("int");

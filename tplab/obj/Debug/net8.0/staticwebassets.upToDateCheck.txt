@@ -1,5 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\fotos\07593962295c4b7b8b38720c31ce6feb.jpg
+wwwroot\fotos\0af82b1047264e3dabb4bf69246b0b6f.jpg
+wwwroot\fotos\277de6110ed24e908cbabbf749873995.jpg
+wwwroot\fotos\40e9d5bd20e7451c9653a0ec14c8770b.jpg
+wwwroot\fotos\4cd4684166ee410dbe3bd8105cca3663.jpg
+wwwroot\fotos\9a880df0735d4a3ba18f7042f2db5594.jpg
+wwwroot\fotos\ad789253792f490999879d465ee47285.jpg
+wwwroot\fotos\e785c21b76a748499c13c8d9010b75c5.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

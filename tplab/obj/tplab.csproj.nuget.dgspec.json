@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\tplab.csproj": {}
+    "E:\\asp\\tplab\\tplab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\tplab.csproj": {
+    "E:\\asp\\tplab\\tplab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\tplab.csproj",
+        "projectUniqueName": "E:\\asp\\tplab\\tplab.csproj",
         "projectName": "tplab",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\tplab.csproj",
+        "projectPath": "E:\\asp\\tplab\\tplab.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\obj\\",
+        "outputPath": "E:\\asp\\tplab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

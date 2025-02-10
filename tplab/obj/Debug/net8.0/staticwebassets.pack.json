@@ -1,247 +1,279 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tplab.bundle.scp.css",
+      "Id": "E:\\asp\\tplab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tplab.bundle.scp.css",
       "PackagePath": "staticwebassets\\tplab.0p6r3gtpyz.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\css\\site.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\favicon.ico",
+      "Id": "E:\\asp\\tplab\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\js\\site.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\07593962295c4b7b8b38720c31ce6feb.jpg",
+      "PackagePath": "staticwebassets\\fotos\\07593962295c4b7b8b38720c31ce6feb.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\0af82b1047264e3dabb4bf69246b0b6f.jpg",
+      "PackagePath": "staticwebassets\\fotos\\0af82b1047264e3dabb4bf69246b0b6f.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\277de6110ed24e908cbabbf749873995.jpg",
+      "PackagePath": "staticwebassets\\fotos\\277de6110ed24e908cbabbf749873995.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\40e9d5bd20e7451c9653a0ec14c8770b.jpg",
+      "PackagePath": "staticwebassets\\fotos\\40e9d5bd20e7451c9653a0ec14c8770b.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\4cd4684166ee410dbe3bd8105cca3663.jpg",
+      "PackagePath": "staticwebassets\\fotos\\4cd4684166ee410dbe3bd8105cca3663.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\9a880df0735d4a3ba18f7042f2db5594.jpg",
+      "PackagePath": "staticwebassets\\fotos\\9a880df0735d4a3ba18f7042f2db5594.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\ad789253792f490999879d465ee47285.jpg",
+      "PackagePath": "staticwebassets\\fotos\\ad789253792f490999879d465ee47285.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\fotos\\e785c21b76a748499c13c8d9010b75c5.jpg",
+      "PackagePath": "staticwebassets\\fotos\\e785c21b76a748499c13c8d9010b75c5.jpg"
+    },
+    {
+      "Id": "E:\\asp\\tplab\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\franc\\OneDrive\\Escritorio\\programer\\ASP\\tplab\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\asp\\tplab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

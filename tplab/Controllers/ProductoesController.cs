@@ -15,10 +15,11 @@ namespace tplab.Controllers
     public class ProductoesController : Controller
     {
         private readonly AppDbContext _context;
-
-        public ProductoesController(AppDbContext context)
+        private readonly IWebHostEnvironment env;
+        public ProductoesController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
+            this.env = env;
         }
 
         // GET: Productoes
@@ -82,8 +83,22 @@ namespace tplab.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nombre,MarcaId")] Producto producto)
+        public async Task<IActionResult> Create([Bind("Id,Nombre,MarcaId,Foto")] Producto producto)
         {
+            //var archivos = foto;
+            
+            //    var archivoFoto = archivos;
+            //    var pathDestino = Path.Combine(env.WebRootPath, "fotos");
+            //        var archivoDestino = Guid.NewGuid().ToString().Replace("-", "") + Path.GetExtension(archivoFoto.FileName);
+
+            //        using (var filestream = new FileStream(Path.Combine(pathDestino, archivoDestino), FileMode.Create))
+            //        {
+            //            archivoFoto.CopyTo(filestream);
+            //            producto.Foto = archivoDestino;
+            //        };
+
+                
+            
             if (ModelState.IsValid)
             {
                 _context.Add(producto);
